@@ -12,5 +12,11 @@ Repository ini dibuat untuk menunjukkan keguanaan Git Flow
 - Ada bug, tidak menjadi permasalahan
 
 ##03
--Bug beres , bisa dicoba, dijalankan. Maka saatnya melakukan FINISH FEATURE
+- Bug beres , bisa dicoba, dijalankan. Maka saatnya melakukan FINISH FEATURE
+
+##04
+ FINISH FEATURE
+ - Me-merge branch FEATURE ini ke DEVELOP
+ - Menghapus local branch FEATURE ini
+ - Menghapus remote branch FEATURE ini
 
